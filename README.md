@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreehariTS
+- 👋 Hi, I’m SreehariTS
 - 👀 I’m interested in Software Development and Cyber Security
 
 - 📫 How to reach me - sreeharisudarshan@gmail.com
